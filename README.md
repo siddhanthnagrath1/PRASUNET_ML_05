@@ -64,7 +64,7 @@ If you don't have Python installed yet, head over to the official download page:
 3. Run the following command:
 
 ```bash 
-git clone 
+git clone https://github.com/siddhanthnagrath1/PRASUNET_ML_05 
 ```
 
 **3. Install required Dependencies  📦**
